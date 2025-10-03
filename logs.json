@@ -1,0 +1,1381 @@
+[
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885558",
+        "ip actual": "192.168.13.11",
+        "descripcion": "Supervision_Quirofano_UCI_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885540",
+        "ip actual": "192.168.12.78",
+        "descripcion": "Prequirofano 4_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885036",
+        "ip actual": "192.168.12.67",
+        "descripcion": "Quirofano_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885510",
+        "ip actual": "192.168.13.19",
+        "descripcion": "TAC_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "18008011",
+        "ip actual": "192.168.12.176",
+        "descripcion": "Sala_Formacion_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10882011",
+        "ip actual": "192.168.12.175",
+        "descripcion": "Aula 2_Despacho_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885536",
+        "ip actual": "192.168.13.160",
+        "descripcion": "Sala_Reuniones_Inf_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885096",
+        "ip actual": "192.168.13.246",
+        "descripcion": "Despacho_Gerencia_Asepeyo_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885098",
+        "ip actual": "192.168.13.60",
+        "descripcion": "Admision_Urgencias_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885041",
+        "ip actual": "192.168.13.243",
+        "descripcion": "Admision_Central _T2_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885100",
+        "ip actual": "192.168.12.100",
+        "descripcion": "Secretaria_D.Medica_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885572",
+        "ip actual": "192.168.12.177",
+        "descripcion": "Mantenimiento_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885499",
+        "ip actual": "192.168.12.243",
+        "descripcion": "CEX 14_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885514",
+        "ip actual": "192.168.13.142",
+        "descripcion": "Terapia_ocupacional_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885500",
+        "ip actual": "192.168.12.102",
+        "descripcion": "CEX 15_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885483",
+        "ip actual": "192.168.12.134",
+        "descripcion": "Reanimacion_T1_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885031",
+        "ip actual": "192.168.12.192",
+        "descripcion": "Secretaria_Quirofano_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885485",
+        "ip actual": "192.168.13.29",
+        "descripcion": "#N/D"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885588",
+        "ip actual": "192.168.12.122",
+        "descripcion": "Supervisor_UCI_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885484",
+        "ip actual": "192.168.12.191",
+        "descripcion": "Medico_UCI_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885495",
+        "ip actual": "192.168.13.140",
+        "descripcion": "CEX 10_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885490",
+        "ip actual": "192.168.12.104",
+        "descripcion": "CEX 05_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885580",
+        "ip actual": "192.168.12.158",
+        "descripcion": "Prequirofano 3_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885487",
+        "ip actual": "192.168.12.155",
+        "descripcion": "CEX 02_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885574",
+        "ip actual": "192.168.13.24",
+        "descripcion": "RHB_Cardiaca_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885486",
+        "ip actual": "192.168.13.82",
+        "descripcion": "CEX 01_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885594",
+        "ip actual": "192.168.13.138",
+        "descripcion": "Supervisor_RDL_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885560",
+        "ip actual": "192.168.13.125",
+        "descripcion": "Supervisor_RHB_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885515",
+        "ip actual": "192.168.12.79",
+        "descripcion": "Seguridad_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885522",
+        "ip actual": "192.168.12.235",
+        "descripcion": "Enfermeria_Urgencias_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885525",
+        "ip actual": "192.168.12.154",
+        "descripcion": "Electromiografia_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885480",
+        "ip actual": "192.168.12.64",
+        "descripcion": "Control_UH2-1_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885663",
+        "ip actual": "192.168.12.31",
+        "descripcion": "PSICOLOGA_S Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885479",
+        "ip actual": "192.168.81.142",
+        "descripcion": "Control_UH4-1_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885523",
+        "ip actual": "192.168.12.169",
+        "descripcion": "RMN2_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885039",
+        "ip actual": "192.168.12.241",
+        "descripcion": "D_Medico_Urgencias_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885040",
+        "ip actual": "192.168.13.155",
+        "descripcion": "Asistente Social_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885493",
+        "ip actual": "192.168.13.4",
+        "descripcion": "CEX_08_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885516",
+        "ip actual": "192.168.13.174",
+        "descripcion": "Seguridad_Garita_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885534",
+        "ip actual": "192.168.12.214",
+        "descripcion": "Reuniones_Hospital_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885589",
+        "ip actual": "192.168.13.51",
+        "descripcion": "Supervisor_Urgencias_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885099",
+        "ip actual": "192.168.12.132",
+        "descripcion": "Centralita-Consergeria_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10882013",
+        "ip actual": "192.168.12.201",
+        "descripcion": "Aula 1_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "18008533",
+        "ip actual": "192.168.12.166",
+        "descripcion": "DPR_Espais_interactius_Planta-2"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774011",
+        "ip actual": "192.168.12.251",
+        "descripcion": "Urgencias_Traslados_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885496",
+        "ip actual": "192.168.13.136",
+        "descripcion": "CEX 11_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885494",
+        "ip actual": "192.168.13.148",
+        "descripcion": "CEX 09_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885501",
+        "ip actual": "192.168.13.172",
+        "descripcion": "CEX 16_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885029",
+        "ip actual": "192.168.12.163",
+        "descripcion": "Laboratorio_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885482",
+        "ip actual": "192.168.13.171",
+        "descripcion": "Esterilizacion_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885043",
+        "ip actual": "192.168.13.240",
+        "descripcion": "Admision_Central _T1_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885016",
+        "ip actual": "192.168.12.71",
+        "descripcion": "Anestesia_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885042",
+        "ip actual": "192.168.12.85",
+        "descripcion": "Admision_Central _T3_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885095",
+        "ip actual": "192.168.12.199",
+        "descripcion": "Despacho_Polivalente_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885481",
+        "ip actual": "192.168.12.25",
+        "descripcion": "Control_UH1-1_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885538",
+        "ip actual": "192.168.12.59",
+        "descripcion": "Prequirofano 2_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885491",
+        "ip actual": "192.168.12.178",
+        "descripcion": "CEX 06_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885492",
+        "ip actual": "192.168.12.76",
+        "descripcion": "CEX 07_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885508",
+        "ip actual": "192.168.13.147",
+        "descripcion": "Radiologia_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885512",
+        "ip actual": "192.168.12.233",
+        "descripcion": "Sala_Fisios_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885030",
+        "ip actual": "192.168.13.143",
+        "descripcion": "Reanimacion_T2_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885671",
+        "ip actual": "192.168.13.204",
+        "descripcion": "Secretaria_RX_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885322",
+        "ip actual": "192.168.81.143",
+        "descripcion": "Hab322_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885321",
+        "ip actual": "192.168.81.141",
+        "descripcion": "Hab321_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885320",
+        "ip actual": "192.168.81.140",
+        "descripcion": "Hab320_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774007",
+        "ip actual": "192.168.13.48",
+        "descripcion": "T_Rojo_UH3_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885327",
+        "ip actual": "192.168.81.121",
+        "descripcion": "Hab327_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885301",
+        "ip actual": "192.168.81.110",
+        "descripcion": "Hab301_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885417",
+        "ip actual": "192.168.81.125",
+        "descripcion": "Hab417_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885430",
+        "ip actual": "192.168.81.104",
+        "descripcion": "Hab430_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774008",
+        "ip actual": "192.168.12.42",
+        "descripcion": "T_Rojo_UH4_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885428",
+        "ip actual": "192.168.81.101",
+        "descripcion": "Hab428_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885427",
+        "ip actual": "192.168.81.174",
+        "descripcion": "Hab427_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885401",
+        "ip actual": "192.168.81.153",
+        "descripcion": "Hab401_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885403",
+        "ip actual": "192.168.81.151",
+        "descripcion": "Hab403_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885421",
+        "ip actual": "192.168.81.171",
+        "descripcion": "Hab421_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885323",
+        "ip actual": "192.168.81.145",
+        "descripcion": "Hab323_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885420",
+        "ip actual": "192.168.81.170",
+        "descripcion": "Hab420_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885303",
+        "ip actual": "192.168.81.107",
+        "descripcion": "Hab303_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885419",
+        "ip actual": "192.168.81.192",
+        "descripcion": "Hab419_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885402",
+        "ip actual": "192.168.81.154",
+        "descripcion": "Hab402_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885412",
+        "ip actual": "192.168.81.164",
+        "descripcion": "Hab412_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885416",
+        "ip actual": "192.168.81.152",
+        "descripcion": "Hab416_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885429",
+        "ip actual": "192.168.81.114",
+        "descripcion": "Hab429_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885413",
+        "ip actual": "192.168.81.161",
+        "descripcion": "Hab413_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885405",
+        "ip actual": "192.168.81.26",
+        "descripcion": "Hab405_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885410",
+        "ip actual": "192.168.81.159",
+        "descripcion": "Hab410_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885431",
+        "ip actual": "192.168.81.103",
+        "descripcion": "Hab431_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885406",
+        "ip actual": "192.168.81.202",
+        "descripcion": "Hab406_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885409",
+        "ip actual": "192.168.81.162",
+        "descripcion": "Hab409_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885408",
+        "ip actual": "192.168.81.167",
+        "descripcion": "Hab408_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885407",
+        "ip actual": "192.168.81.160",
+        "descripcion": "Hab407_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885411",
+        "ip actual": "192.168.81.163",
+        "descripcion": "Hab411_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885426",
+        "ip actual": "192.168.81.172",
+        "descripcion": "Hab426_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885304",
+        "ip actual": "192.168.81.116",
+        "descripcion": "Hab304_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885358",
+        "ip actual": "192.168.13.170",
+        "descripcion": "Lavanderia_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885316",
+        "ip actual": "192.168.81.120",
+        "descripcion": "Hab316_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885305",
+        "ip actual": "192.168.81.123",
+        "descripcion": "Hab305_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885046",
+        "ip actual": "192.168.12.143",
+        "descripcion": "Sala_Comite_Empresa_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885026",
+        "ip actual": "192.168.81.173",
+        "descripcion": "Hab_Medico_1_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774009",
+        "ip actual": "192.168.12.63",
+        "descripcion": "T_Rojo_Laboratorio_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885033",
+        "ip actual": "192.168.13.22",
+        "descripcion": "Recepcion_Quirofano_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885103",
+        "ip actual": "192.168.81.94",
+        "descripcion": "Hab103_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885533",
+        "ip actual": "192.168.12.137",
+        "descripcion": "Gimnasio_RHB_P-1_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885570",
+        "ip actual": "192.168.12.164",
+        "descripcion": "Sala radi\ufffdlogos_ RMN_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885015",
+        "ip actual": "192.168.13.93",
+        "descripcion": "Almacen_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885032",
+        "ip actual": "192.168.13.224",
+        "descripcion": "Pasillo Quirofano_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885445",
+        "ip actual": "192.168.12.75",
+        "descripcion": "ComedorVIP_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774003",
+        "ip actual": "192.168.13.135",
+        "descripcion": "T_Rojo_RDL_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774000",
+        "ip actual": "192.168.13.47",
+        "descripcion": "T_Rojo_RMN_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885511",
+        "ip actual": "192.168.12.144",
+        "descripcion": "Resonancia Magnetica_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885566",
+        "ip actual": "192.168.12.141",
+        "descripcion": "T_Rojo_Recepcion_Llamadas_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774002",
+        "ip actual": "192.168.12.112",
+        "descripcion": "T_Rojo_Urgencias_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885035",
+        "ip actual": "192.168.13.100",
+        "descripcion": "Sala_descanso_Urgencias_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885368",
+        "ip actual": "192.168.13.103",
+        "descripcion": "Esterilizacion_puerta_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885124",
+        "ip actual": "192.168.81.92",
+        "descripcion": "Hab124-1_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885125",
+        "ip actual": "192.168.81.79",
+        "descripcion": "Hab125_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885126",
+        "ip actual": "192.168.81.46",
+        "descripcion": "Hab126_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885127",
+        "ip actual": "192.168.81.60",
+        "descripcion": "Hab127_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885129",
+        "ip actual": "192.168.81.112",
+        "descripcion": "Hab129_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885117",
+        "ip actual": "192.168.81.249",
+        "descripcion": "Hab117_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885106",
+        "ip actual": "192.168.81.31",
+        "descripcion": "Hab106_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885101",
+        "ip actual": "192.168.81.17",
+        "descripcion": "Hab101_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885102",
+        "ip actual": "192.168.81.20",
+        "descripcion": "Hab102_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885105",
+        "ip actual": "192.168.81.57",
+        "descripcion": "Hab105_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885108",
+        "ip actual": "192.168.81.16",
+        "descripcion": "Hab108_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885109",
+        "ip actual": "192.168.12.204",
+        "descripcion": "Hab109_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885110",
+        "ip actual": "192.168.81.32",
+        "descripcion": "Hab110_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885112",
+        "ip actual": "192.168.81.35",
+        "descripcion": "Hab112_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885121",
+        "ip actual": "192.168.81.30",
+        "descripcion": "Hab121_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885554",
+        "ip actual": "192.168.81.169",
+        "descripcion": "Hab124-2_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885104",
+        "ip actual": "192.168.81.58",
+        "descripcion": "Hab104_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885227",
+        "ip actual": "192.168.81.190",
+        "descripcion": "Hab227_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885114",
+        "ip actual": "192.168.81.243",
+        "descripcion": "Hab114_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885119",
+        "ip actual": "192.168.81.51",
+        "descripcion": "Hab119_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774004",
+        "ip actual": "192.168.12.139",
+        "descripcion": "T_Rojo_UH1_0885"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885228",
+        "ip actual": "192.168.81.150",
+        "descripcion": "Hab228_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885218",
+        "ip actual": "192.168.81.177",
+        "descripcion": "Hab218_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885219",
+        "ip actual": "192.168.81.38",
+        "descripcion": "Hab219_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885220",
+        "ip actual": "192.168.81.41",
+        "descripcion": "Hab220_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885214",
+        "ip actual": "192.168.81.66",
+        "descripcion": "Hab214_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885217",
+        "ip actual": "192.168.81.176",
+        "descripcion": "Hab217_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885222",
+        "ip actual": "192.168.81.45",
+        "descripcion": "Hab222_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885224",
+        "ip actual": "192.168.81.186",
+        "descripcion": "Hab224_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885225",
+        "ip actual": "192.168.81.54",
+        "descripcion": "Hab225_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "17774005",
+        "ip actual": "192.168.12.140",
+        "descripcion": "T_Rojo_UH2_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885226",
+        "ip actual": "192.168.81.146",
+        "descripcion": "Hab226_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885208",
+        "ip actual": "192.168.81.42",
+        "descripcion": "Hab208-1_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885202",
+        "ip actual": "192.168.81.67",
+        "descripcion": "Hab202_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885201",
+        "ip actual": "192.168.81.37",
+        "descripcion": "Hab201_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885204",
+        "ip actual": "192.168.81.134",
+        "descripcion": "Hab204_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885205",
+        "ip actual": "192.168.81.68",
+        "descripcion": "Hab205_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885206",
+        "ip actual": "192.168.81.61",
+        "descripcion": "Hab206_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885223",
+        "ip actual": "192.168.81.237",
+        "descripcion": "Hab223_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885556",
+        "ip actual": "192.168.81.70",
+        "descripcion": "Hab208-2_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885210",
+        "ip actual": "192.168.81.86",
+        "descripcion": "Hab210_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885211",
+        "ip actual": "192.168.81.98",
+        "descripcion": "Hab211_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885212",
+        "ip actual": "192.168.81.62",
+        "descripcion": "Hab212_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885213",
+        "ip actual": "192.168.81.77",
+        "descripcion": "Hab213_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885229",
+        "ip actual": "192.168.81.194",
+        "descripcion": "Hab229_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885315",
+        "ip actual": "192.168.81.106",
+        "descripcion": "Hab315_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885324",
+        "ip actual": "192.168.81.97",
+        "descripcion": "Hab324_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885314",
+        "ip actual": "192.168.81.127",
+        "descripcion": "Hab314_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885313",
+        "ip actual": "192.168.81.96",
+        "descripcion": "Hab313_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885312",
+        "ip actual": "192.168.81.113",
+        "descripcion": "Hab312_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885302",
+        "ip actual": "192.168.81.124",
+        "descripcion": "Hab302_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885318",
+        "ip actual": "192.168.81.122",
+        "descripcion": "Hab318_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885306",
+        "ip actual": "192.168.81.115",
+        "descripcion": "Hab306_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885311",
+        "ip actual": "192.168.81.100",
+        "descripcion": "Hab311_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885332",
+        "ip actual": "192.168.81.149",
+        "descripcion": "Hab332_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885330",
+        "ip actual": "192.168.81.148",
+        "descripcion": "Hab330_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885329",
+        "ip actual": "192.168.81.117",
+        "descripcion": "Hab329_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885328",
+        "ip actual": "192.168.81.118",
+        "descripcion": "Hab328_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885319",
+        "ip actual": "192.168.81.139",
+        "descripcion": "Hab319_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885326",
+        "ip actual": "192.168.81.196",
+        "descripcion": "Hab326_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T13:17:24.729778",
+        "estado": "conectado",
+        "extension": "10885317",
+        "ip actual": "192.168.81.138",
+        "descripcion": "Hab317_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T16:41:05.022507",
+        "estado": "desconectado",
+        "extension": "10885109",
+        "ip actual": null,
+        "descripcion": "Hab109_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-01T16:54:39.657414",
+        "estado": "conectado",
+        "extension": "10885109",
+        "ip actual": "192.168.12.204",
+        "descripcion": "Hab109_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T09:00:03.153680",
+        "estado": "conectado",
+        "extension": "10885120",
+        "ip actual": "192.168.81.193",
+        "descripcion": "Hab120_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T09:12:17.696329",
+        "estado": "desconectado",
+        "extension": "10885109",
+        "ip actual": null,
+        "descripcion": "Hab109_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T09:21:50.804680",
+        "estado": "conectado",
+        "extension": "10885109",
+        "ip actual": "192.168.12.204",
+        "descripcion": "Hab109_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T10:13:42.617747",
+        "estado": "desconectado",
+        "extension": "10885558",
+        "ip actual": null,
+        "descripcion": "Supervision_Quirofano_UCI_0885"
+    },
+    {
+        "timeStamp": "2025-10-02T11:51:58.193193",
+        "estado": "conectado",
+        "extension": "10885038",
+        "ip actual": "192.168.13.57",
+        "descripcion": "Sala_Estudios_Urgencias_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T12:46:37.315764",
+        "estado": "conectado",
+        "extension": "10885028",
+        "ip actual": "192.168.81.199",
+        "descripcion": "Hab_Medico_3_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T13:38:30.331568",
+        "estado": "conectado",
+        "extension": "10885505",
+        "ip actual": "192.168.13.36",
+        "descripcion": "Farmacia_0885"
+    },
+    {
+        "timeStamp": "2025-10-02T16:22:56.978352",
+        "estado": "conectado",
+        "extension": "10885018",
+        "ip actual": "192.168.13.37",
+        "descripcion": "Sala_Servidores_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T16:22:56.978352",
+        "estado": "conectado",
+        "extension": "10885331",
+        "ip actual": "192.168.81.207",
+        "descripcion": "Hab331_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T17:10:55.313145",
+        "estado": "conectado",
+        "extension": "10885444",
+        "ip actual": "192.168.13.38",
+        "descripcion": "Cafeter\ufffdaVIP_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T19:33:40.289531",
+        "estado": "desconectado",
+        "extension": "10885228",
+        "ip actual": null,
+        "descripcion": "Hab228_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-02T19:35:01.122924",
+        "estado": "conectado",
+        "extension": "10885228",
+        "ip actual": "192.168.81.150",
+        "descripcion": "Hab228_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-03T09:22:45.727837",
+        "estado": "desconectado",
+        "extension": "10885015",
+        "ip actual": null,
+        "descripcion": "Almacen_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-03T09:25:28.740873",
+        "estado": "conectado",
+        "extension": "10885015",
+        "ip actual": "192.168.13.93",
+        "descripcion": "Almacen_S.Cugat"
+    },
+    {
+        "timeStamp": "2025-10-03T09:59:38.579990",
+        "estado": "conectado",
+        "extension": "17774006",
+        "ip actual": "192.168.13.39",
+        "descripcion": "T_Rojo_Quirofano_0885"
+    },
+    {
+        "timeStamp": "2025-10-03T09:59:38.579990",
+        "estado": "conectado",
+        "extension": "10885504",
+        "ip actual": "192.168.13.40",
+        "descripcion": "Sala_informes_Quirofano_0885"
+    },
+    {
+        "timeStamp": "2025-10-03T14:14:11.097880",
+        "estado": "desconectado",
+        "extension": "10885510",
+        "descripcion": "TAC_0885",
+        "ip actual": null
+    },
+    {
+        "timeStamp": "2025-10-03T14:36:01.464177",
+        "estado": "desconectado",
+        "extension": "10885445",
+        "descripcion": "ComedorVIP_S.Cugat",
+        "ip actual": null
+    },
+    {
+        "timeStamp": "2025-10-03T14:37:22.524689",
+        "estado": "desconectado",
+        "extension": "10885444",
+        "descripcion": "Cafeter\ufffdaVIP_S.Cugat",
+        "ip actual": null
+    }
+]

@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.estado-conexion {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.conectado {
+    background-color: #28a745; /* Verde */
+    border: 1px solid #218838;
+}
+
+.desconectado {
+    background-color: #dc3545; /* Rojo */
+    border: 1px solid #c82333;
+}
+
+.historial-table {
+    width: 100%;
+    font-size: 0.9em;
+}
+
+.historial-table th, .historial-table td {
+    padding: 0.4rem;
+}

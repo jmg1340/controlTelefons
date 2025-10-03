@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estado de Teléfonos IP</title>
+    <!-- Bootstrap 4 CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Estilos personalizados -->
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <div class="container mt-4">
+        <h1 class="text-center mb-4">Monitor de Conectividad de Teléfonos</h1>
+
+        <div class="row mb-3">
+            <div class="col">
+                <input type="text" id="buscador" class="form-control" placeholder="Buscar por extensión, IP, hostname, etc....">
+            </div>
+        </div>
+
+        <table class="table table-bordered table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" style="width: 100px;">Estado</th>
+                    <th scope="col">Extensión</th>
+                    <th scope="col">IP Actual</th>
+                    <th scope="col">Hostname</th>
+                    <th scope="col">Modelo</th>
+                    <th scope="col">Descripción</th>
+                    <th scope="col">Historial de Cambios</th>
+                </tr>
+            </thead>
+            <tbody id="tabla-telefonos">
+                <!-- Las filas se generarán dinámicamente con JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- Bootstrap 4 JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <!-- Scripts personalizados -->
+    <script src="scripts.js"></script>
+</body>
+</html>

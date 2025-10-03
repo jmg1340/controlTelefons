@@ -1,0 +1,1982 @@
+{
+    "10885558": {
+        "hostname": "SEP247E12BF7684",
+        "model": "CP8811",
+        "description": "Supervision_Quirofano_UCI_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.11",
+            "timestamp": "2025-10-02T10:15:05.733810"
+        }
+    },
+    "10885540": {
+        "hostname": "SEPF87B204FFA2D",
+        "model": "CP8811",
+        "description": "Prequirofano 4_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.78",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885036": {
+        "hostname": "SEP247E12BF76D2",
+        "model": "CP8811",
+        "description": "Quirofano_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.67",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885510": {
+        "hostname": "SEP247E12BF8A90",
+        "model": "CP8811",
+        "description": "TAC_0885",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": "2025-10-03T14:14:11.097880"
+        }
+    },
+    "18008010": {
+        "hostname": "SEP0027901CF3AD",
+        "model": "CP8811",
+        "description": "Sala_Reuniones_0885",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "18008011": {
+        "hostname": "SEP247E12BF8A4A",
+        "model": "CP8811",
+        "description": "Sala_Formacion_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.176",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10882011": {
+        "hostname": "SEP247E12BF7869",
+        "model": "CP8811",
+        "description": "Aula 2_Despacho_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.175",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885536": {
+        "hostname": "SEP247E12BF7666",
+        "model": "CP8811",
+        "description": "Sala_Reuniones_Inf_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.160",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885096": {
+        "hostname": "SEP247E12BF5F69",
+        "model": "CP8811",
+        "description": "Despacho_Gerencia_Asepeyo_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.246",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885098": {
+        "hostname": "SEPB4A8B969C8DC",
+        "model": "CP8811",
+        "description": "Admision_Urgencias_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.60",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10882056": {
+        "hostname": "SEP44B6BED184F4",
+        "model": "CP8811",
+        "description": "UCI_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885041": {
+        "hostname": "SEPB4A8B969C7D5",
+        "model": "CP8811",
+        "description": "Admision_Central _T2_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.243",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885100": {
+        "hostname": "SEPB4A8B969C9D7",
+        "model": "CP8811",
+        "description": "Secretaria_D.Medica_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.100",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885572": {
+        "hostname": "SEPB4A8B969CCA6",
+        "model": "CP8811",
+        "description": "Mantenimiento_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.177",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885499": {
+        "hostname": "SEPB4A8B969CB30",
+        "model": "CP8811",
+        "description": "CEX 14_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.243",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885514": {
+        "hostname": "SEPEC1D8B2A3C7E",
+        "model": "CP8811",
+        "description": "Terapia_ocupacional_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.142",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885498": {
+        "hostname": "SEP247E12BE6E0F",
+        "model": "CP8811",
+        "description": "CEX 13_0885",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885500": {
+        "hostname": "SEPB4A8B969C939",
+        "model": "CP8811",
+        "description": "CEX 15_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.102",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885483": {
+        "hostname": "SEP247E12BF5D85",
+        "model": "CP8811",
+        "description": "Reanimacion_T1_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.134",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885031": {
+        "hostname": "SEP247E12BF8489",
+        "model": "CP8811",
+        "description": "Secretaria_Quirofano_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.192",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885485": {
+        "hostname": "SEPB4A8B969C5D0",
+        "model": "CP8811",
+        "description": "#N/D",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.29",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885588": {
+        "hostname": "SEP247E12BF7746",
+        "model": "CP8811",
+        "description": "Supervisor_UCI_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.122",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885484": {
+        "hostname": "SEP247E12BFD070",
+        "model": "CP8811",
+        "description": "Medico_UCI_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.191",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885495": {
+        "hostname": "SEP247E12BF8079",
+        "model": "CP8811",
+        "description": "CEX 10_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.140",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885490": {
+        "hostname": "SEP247E12BF88BC",
+        "model": "CP8811",
+        "description": "CEX 05_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.104",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885580": {
+        "hostname": "SEP247E12BF8564",
+        "model": "CP8811",
+        "description": "Prequirofano 3_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.158",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885487": {
+        "hostname": "SEP247E12BF82D4",
+        "model": "CP8811",
+        "description": "CEX 02_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.155",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885574": {
+        "hostname": "SEP247E12BF67E5",
+        "model": "CP8811",
+        "description": "RHB_Cardiaca_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.24",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885486": {
+        "hostname": "SEP247E12BF80FA",
+        "model": "CP8811",
+        "description": "CEX 01_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.82",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885594": {
+        "hostname": "SEP247E12BF76DA",
+        "model": "CP8811",
+        "description": "Supervisor_RDL_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.138",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885560": {
+        "hostname": "SEP247E12BF7662",
+        "model": "CP8811",
+        "description": "Supervisor_RHB_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.125",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885515": {
+        "hostname": "SEPB4A8B969C86C",
+        "model": "CP8811",
+        "description": "Seguridad_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.79",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885522": {
+        "hostname": "SEPB4A8B969C8F9",
+        "model": "CP8811",
+        "description": "Enfermeria_Urgencias_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.235",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885525": {
+        "hostname": "SEPB4A8B969C3D0",
+        "model": "CP8811",
+        "description": "Electromiografia_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.154",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885480": {
+        "hostname": "SEPB4A8B969C80B",
+        "model": "CP8811",
+        "description": "Control_UH2-1_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.64",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885663": {
+        "hostname": "SEPB4A8B969C993",
+        "model": "CP8811",
+        "description": "PSICOLOGA_S Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.31",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885479": {
+        "hostname": "SEPB4A8B96959DE",
+        "model": "CP8811",
+        "description": "Control_UH4-1_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.142",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885523": {
+        "hostname": "SEPB4A8B969C927",
+        "model": "CP8811",
+        "description": "RMN2_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.169",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885039": {
+        "hostname": "SEP247E12BF6609",
+        "model": "CP8811",
+        "description": "D_Medico_Urgencias_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.241",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885040": {
+        "hostname": "SEP247E12BFD03C",
+        "model": "CP8811",
+        "description": "Asistente Social_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.155",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885493": {
+        "hostname": "SEP247E12BF85D5",
+        "model": "CP8811",
+        "description": "CEX_08_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.4",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885516": {
+        "hostname": "SEP247E12BF8BCC",
+        "model": "CP8811",
+        "description": "Seguridad_Garita_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.174",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885534": {
+        "hostname": "SEP247E12BF874F",
+        "model": "CP8811",
+        "description": "Reuniones_Hospital_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.214",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885589": {
+        "hostname": "SEP247E12BF8947",
+        "model": "CP8811",
+        "description": "Supervisor_Urgencias_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.51",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885099": {
+        "hostname": "SEP009AD2F08AA2",
+        "model": "CP8811",
+        "description": "Centralita-Consergeria_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.132",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10882013": {
+        "hostname": "SEP247E12BF7797",
+        "model": "CP8811",
+        "description": "Aula 1_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.201",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "18008533": {
+        "hostname": "SEP2C0BE904F6D0",
+        "model": "CP8811",
+        "description": "DPR_Espais_interactius_Planta-2",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.166",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774011": {
+        "hostname": "SEP247E12BE6F56",
+        "model": "CP8811",
+        "description": "Urgencias_Traslados_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.251",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885496": {
+        "hostname": "SEP247E12BF6687",
+        "model": "CP8811",
+        "description": "CEX 11_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.136",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885494": {
+        "hostname": "SEP247E12BF8111",
+        "model": "CP8811",
+        "description": "CEX 09_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.148",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885501": {
+        "hostname": "SEP247E12BF8722",
+        "model": "CP8811",
+        "description": "CEX 16_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.172",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885029": {
+        "hostname": "SEP247E12BF848A",
+        "model": "CP8811",
+        "description": "Laboratorio_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.163",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885024": {
+        "hostname": "SEP247E12BE6E32",
+        "model": "CP8811",
+        "description": "Cocina_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885482": {
+        "hostname": "SEP247E12BF77C7",
+        "model": "CP8811",
+        "description": "Esterilizacion_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.171",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885043": {
+        "hostname": "SEP247E12BF77A1",
+        "model": "CP8811",
+        "description": "Admision_Central _T1_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.240",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885016": {
+        "hostname": "SEP247E12BE6F16",
+        "model": "CP8811",
+        "description": "Anestesia_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.71",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885042": {
+        "hostname": "SEP247E12BF778A",
+        "model": "CP8811",
+        "description": "Admision_Central _T3_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.85",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885095": {
+        "hostname": "SEP247E12BF65EF",
+        "model": "CP8811",
+        "description": "Despacho_Polivalente_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.199",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885481": {
+        "hostname": "SEP247E12BE6F25",
+        "model": "CP8811",
+        "description": "Control_UH1-1_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.25",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885538": {
+        "hostname": "SEP247E12BF84C4",
+        "model": "CP8811",
+        "description": "Prequirofano 2_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.59",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885491": {
+        "hostname": "SEP247E12BF8DCA",
+        "model": "CP8811",
+        "description": "CEX 06_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.178",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885492": {
+        "hostname": "SEP247E12BF8EBD",
+        "model": "CP8811",
+        "description": "CEX 07_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.76",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885508": {
+        "hostname": "SEP247E12BF89FF",
+        "model": "CP8811",
+        "description": "Radiologia_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.147",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885512": {
+        "hostname": "SEP247E12BF77EF",
+        "model": "CP8811",
+        "description": "Sala_Fisios_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.233",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885030": {
+        "hostname": "SEP247E12BF808A",
+        "model": "CP8811",
+        "description": "Reanimacion_T2_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.143",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885671": {
+        "hostname": "SEP247E12BF8990",
+        "model": "CP8811",
+        "description": "Secretaria_RX_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.204",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885322": {
+        "hostname": "SEPB4A8B969FCD4",
+        "model": "CP6901",
+        "description": "Hab322_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.143",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885321": {
+        "hostname": "SEP247E12BE0A0E",
+        "model": "CP6901",
+        "description": "Hab321_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.141",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885320": {
+        "hostname": "SEP0027901C7616",
+        "model": "CP6901",
+        "description": "Hab320_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.140",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774007": {
+        "hostname": "SEP247E12BE0800",
+        "model": "CP6901",
+        "description": "T_Rojo_UH3_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.48",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885327": {
+        "hostname": "SEP247E12BE08CD",
+        "model": "CP6901",
+        "description": "Hab327_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.121",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885301": {
+        "hostname": "SEP247E12BF51FF",
+        "model": "CP6901",
+        "description": "Hab301_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.110",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885417": {
+        "hostname": "SEPB4A8B969FBE7",
+        "model": "CP6901",
+        "description": "Hab417_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.125",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885430": {
+        "hostname": "SEP74860B715ED7",
+        "model": "CP6901",
+        "description": "Hab430_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.104",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774008": {
+        "hostname": "SEP0027901C7322",
+        "model": "CP6901",
+        "description": "T_Rojo_UH4_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.42",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885428": {
+        "hostname": "SEP74860B715ED4",
+        "model": "CP6901",
+        "description": "Hab428_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.101",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885427": {
+        "hostname": "SEP247E12BE0790",
+        "model": "CP6901",
+        "description": "Hab427_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.174",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885401": {
+        "hostname": "SEPB4A8B969FC60",
+        "model": "CP6901",
+        "description": "Hab401_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.153",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885403": {
+        "hostname": "SEP247E12BE073D",
+        "model": "CP6901",
+        "description": "Hab403_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.151",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885422": {
+        "hostname": "SEP247E12BE074A",
+        "model": "CP6901",
+        "description": "Hab422_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885421": {
+        "hostname": "SEP247E12BE0760",
+        "model": "CP6901",
+        "description": "Hab421_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.171",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885323": {
+        "hostname": "SEP247E12BE09A9",
+        "model": "CP6901",
+        "description": "Hab323_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.145",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885420": {
+        "hostname": "SEP247E12BE075A",
+        "model": "CP6901",
+        "description": "Hab420_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.170",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885303": {
+        "hostname": "SEP247E12BF535E",
+        "model": "CP6901",
+        "description": "Hab303_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.107",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885419": {
+        "hostname": "SEP247E12BE07C3",
+        "model": "CP6901",
+        "description": "Hab419_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.192",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885418": {
+        "hostname": "SEP247E12BE07C5",
+        "model": "CP6901",
+        "description": "Hab418_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885402": {
+        "hostname": "SEP247E12BE099D",
+        "model": "CP6901",
+        "description": "Hab402_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.154",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885412": {
+        "hostname": "SEP0027901C7348",
+        "model": "CP6901",
+        "description": "Hab412_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.164",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885416": {
+        "hostname": "SEPEC1D8B2B7CE1",
+        "model": "CP6901",
+        "description": "Hab416_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.152",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885429": {
+        "hostname": "SEP74860B7161FF",
+        "model": "CP6901",
+        "description": "Hab429_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.114",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885413": {
+        "hostname": "SEPEC1D8B2B7CED",
+        "model": "CP6901",
+        "description": "Hab413_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.161",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885405": {
+        "hostname": "SEP247E12BE0A18",
+        "model": "CP6901",
+        "description": "Hab405_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.26",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885432": {
+        "hostname": "SEP74860B70B775",
+        "model": "CP6901",
+        "description": "Hab432_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885410": {
+        "hostname": "SEP0027901C745F",
+        "model": "CP6901",
+        "description": "Hab410_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.159",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885431": {
+        "hostname": "SEP74860B715E63",
+        "model": "CP6901",
+        "description": "Hab431_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.208",
+            "timestamp": "2025-10-02T16:22:56.978352"
+        }
+    },
+    "10885406": {
+        "hostname": "SEPB4A8B969FCAD",
+        "model": "CP6901",
+        "description": "Hab406_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.202",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885409": {
+        "hostname": "SEPEC1D8B2B7CE6",
+        "model": "CP6901",
+        "description": "Hab409_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.162",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885408": {
+        "hostname": "SEP0027901C735D",
+        "model": "CP6901",
+        "description": "Hab408_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.167",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885407": {
+        "hostname": "SEP247E12BE0815",
+        "model": "CP6901",
+        "description": "Hab407_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.160",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885411": {
+        "hostname": "SEP0027901C7523",
+        "model": "CP6901",
+        "description": "Hab411_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.163",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885426": {
+        "hostname": "SEP0027901C735A",
+        "model": "CP6901",
+        "description": "Hab426_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.172",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885366": {
+        "hostname": "SEP247E12BECCAE",
+        "model": "CP6901",
+        "description": "Sala_simulador_paciente_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885304": {
+        "hostname": "SEP247E12BF50B6",
+        "model": "CP6901",
+        "description": "Hab304_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.116",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885358": {
+        "hostname": "SEP247E12BECB36",
+        "model": "CP6901",
+        "description": "Lavanderia_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.170",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885316": {
+        "hostname": "SEP74860B70B94F",
+        "model": "CP6901",
+        "description": "Hab316_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.120",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885305": {
+        "hostname": "SEP247E12BF5042",
+        "model": "CP6901",
+        "description": "Hab305_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.123",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885505": {
+        "hostname": "SEP247E12BE0894",
+        "model": "CP6901",
+        "description": "Farmacia_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.36",
+            "timestamp": "2025-10-02T13:38:30.331568"
+        }
+    },
+    "10885025": {
+        "hostname": "SEP247E12BECB7E",
+        "model": "CP6901",
+        "description": "Almacen_Farmacia_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885046": {
+        "hostname": "SEP247E12BECC0E",
+        "model": "CP6901",
+        "description": "Sala_Comite_Empresa_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.143",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885028": {
+        "hostname": "SEP247E12BF50D6",
+        "model": "CP6901",
+        "description": "Hab_Medico_3_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.199",
+            "timestamp": "2025-10-02T12:46:37.315764"
+        }
+    },
+    "10885026": {
+        "hostname": "SEP247E12BECC9C",
+        "model": "CP6901",
+        "description": "Hab_Medico_1_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.173",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774009": {
+        "hostname": "SEP247E12BF5391",
+        "model": "CP6901",
+        "description": "T_Rojo_Laboratorio_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.63",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885033": {
+        "hostname": "SEP247E12BF523A",
+        "model": "CP6901",
+        "description": "Recepcion_Quirofano_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.22",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885103": {
+        "hostname": "SEP247E12BF510D",
+        "model": "CP6901",
+        "description": "Hab103_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.94",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885533": {
+        "hostname": "SEP247E12BF5398",
+        "model": "CP6901",
+        "description": "Gimnasio_RHB_P-1_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.137",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885018": {
+        "hostname": "SEP247E12BECBD7",
+        "model": "CP6901",
+        "description": "Sala_Servidores_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.37",
+            "timestamp": "2025-10-02T16:22:56.978352"
+        }
+    },
+    "10885570": {
+        "hostname": "SEP247E12BE068C",
+        "model": "CP6901",
+        "description": "Sala radi\ufffdlogos_ RMN_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.164",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885015": {
+        "hostname": "SEP247E12BECC87",
+        "model": "CP6901",
+        "description": "Almacen_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.66",
+            "timestamp": "2025-10-03T13:50:52.296468"
+        }
+    },
+    "10885032": {
+        "hostname": "SEP247E12BF4EF6",
+        "model": "CP6901",
+        "description": "Pasillo Quirofano_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.224",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774006": {
+        "hostname": "SEP247E12BECB34",
+        "model": "CP6901",
+        "description": "T_Rojo_Quirofano_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.39",
+            "timestamp": "2025-10-03T09:59:38.579990"
+        }
+    },
+    "10885504": {
+        "hostname": "SEP247E12BECC70",
+        "model": "CP6901",
+        "description": "Sala_informes_Quirofano_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.40",
+            "timestamp": "2025-10-03T09:59:38.579990"
+        }
+    },
+    "17774003": {
+        "hostname": "SEP247E12BECB85",
+        "model": "CP6901",
+        "description": "T_Rojo_RDL_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.135",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774000": {
+        "hostname": "SEP247E12BECBB9",
+        "model": "CP6901",
+        "description": "T_Rojo_RMN_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.47",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885509": {
+        "hostname": "SEP247E12BE0750",
+        "model": "CP6901",
+        "description": "Ecografia_0885",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885511": {
+        "hostname": "SEP247E12BE0695",
+        "model": "CP6901",
+        "description": "Resonancia Magnetica_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.144",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885566": {
+        "hostname": "SEP247E12BF4FE4",
+        "model": "CP6901",
+        "description": "T_Rojo_Recepcion_Llamadas_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.141",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885038": {
+        "hostname": "SEP247E12BF529E",
+        "model": "CP6901",
+        "description": "Sala_Estudios_Urgencias_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.57",
+            "timestamp": "2025-10-02T11:51:58.193193"
+        }
+    },
+    "17774002": {
+        "hostname": "SEP247E12BF52CB",
+        "model": "CP6901",
+        "description": "T_Rojo_Urgencias_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.112",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885035": {
+        "hostname": "SEP247E12BF50DD",
+        "model": "CP6901",
+        "description": "Sala_descanso_Urgencias_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.100",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885368": {
+        "hostname": "SEP247E12BF5361",
+        "model": "CP6901",
+        "description": "Esterilizacion_puerta_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.13.103",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885124": {
+        "hostname": "SEP247E12BE0712",
+        "model": "CP6901",
+        "description": "Hab124-1_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.92",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885125": {
+        "hostname": "SEP247E12BECBF9",
+        "model": "CP6901",
+        "description": "Hab125_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.79",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885126": {
+        "hostname": "SEP247E12BE06D4",
+        "model": "CP6901",
+        "description": "Hab126_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.46",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885127": {
+        "hostname": "SEP247E12BECB7B",
+        "model": "CP6901",
+        "description": "Hab127_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.60",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885129": {
+        "hostname": "SEP247E12BF54B5",
+        "model": "CP6901",
+        "description": "Hab129_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.112",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885117": {
+        "hostname": "SEP247E12BF50A5",
+        "model": "CP6901",
+        "description": "Hab117_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.249",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885106": {
+        "hostname": "SEP247E12BECBE5",
+        "model": "CP6901",
+        "description": "Hab106_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.31",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885101": {
+        "hostname": "SEP247E12BF5457",
+        "model": "CP6901",
+        "description": "Hab101_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.17",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885102": {
+        "hostname": "SEP247E12BECBE7",
+        "model": "CP6901",
+        "description": "Hab102_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.20",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885105": {
+        "hostname": "SEP247E12BF5008",
+        "model": "CP6901",
+        "description": "Hab105_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.57",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885108": {
+        "hostname": "SEP247E12BF4EE4",
+        "model": "CP6901",
+        "description": "Hab108_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.16",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885109": {
+        "hostname": "SEPCC9891D07458",
+        "model": "CP6901",
+        "description": "Hab109_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": "2025-10-02T13:39:51.029117"
+        }
+    },
+    "10885110": {
+        "hostname": "SEP247E12BF5409",
+        "model": "CP6901",
+        "description": "Hab110_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.32",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885112": {
+        "hostname": "SEP247E12BF54AB",
+        "model": "CP6901",
+        "description": "Hab112_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.35",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885121": {
+        "hostname": "SEP247E12BECBEA",
+        "model": "CP6901",
+        "description": "Hab121_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.195",
+            "timestamp": "2025-10-02T12:06:59.946156"
+        }
+    },
+    "10885554": {
+        "hostname": "SEP247E12BECBDF",
+        "model": "CP6901",
+        "description": "Hab124-2_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.169",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885104": {
+        "hostname": "SEP247E12BF4F05",
+        "model": "CP6901",
+        "description": "Hab104_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.58",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885227": {
+        "hostname": "SEP247E12BF5111",
+        "model": "CP6901",
+        "description": "Hab227_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.190",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885114": {
+        "hostname": "SEP247E12BF549B",
+        "model": "CP6901",
+        "description": "Hab114_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.243",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885122": {
+        "hostname": "SEP247E12BECBE1",
+        "model": "CP6901",
+        "description": "Hab122_0885",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885120": {
+        "hostname": "SEP247E12BF541C",
+        "model": "CP6901",
+        "description": "Hab120_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.193",
+            "timestamp": "2025-10-02T09:00:03.153680"
+        }
+    },
+    "10885119": {
+        "hostname": "SEP247E12BF4FDB",
+        "model": "CP6901",
+        "description": "Hab119_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.51",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "17774004": {
+        "hostname": "SEP247E12BE0873",
+        "model": "CP6901",
+        "description": "T_Rojo_UH1_0885",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.139",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885116": {
+        "hostname": "SEP247E12BF501F",
+        "model": "CP6901",
+        "description": "Hab116_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885115": {
+        "hostname": "SEP247E12BE0737",
+        "model": "CP6901",
+        "description": "Hab115_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885228": {
+        "hostname": "SEP247E12BF542C",
+        "model": "CP6901",
+        "description": "Hab228_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.150",
+            "timestamp": "2025-10-02T19:35:01.122924"
+        }
+    },
+    "10885218": {
+        "hostname": "SEP247E12BF51AB",
+        "model": "CP6901",
+        "description": "Hab218_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.177",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885219": {
+        "hostname": "SEP247E12BF54CA",
+        "model": "CP6901",
+        "description": "Hab219_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.38",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885220": {
+        "hostname": "SEP247E12BF5127",
+        "model": "CP6901",
+        "description": "Hab220_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.41",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885214": {
+        "hostname": "SEP247E12BF54A7",
+        "model": "CP6901",
+        "description": "Hab214_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.66",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885217": {
+        "hostname": "SEP247E12BF5384",
+        "model": "CP6901",
+        "description": "Hab217_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.176",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885222": {
+        "hostname": "SEP247E12BF4ED4",
+        "model": "CP6901",
+        "description": "Hab222_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.45",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885224": {
+        "hostname": "SEP247E12BF500C",
+        "model": "CP6901",
+        "description": "Hab224_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.186",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885225": {
+        "hostname": "SEP247E12BF4E9D",
+        "model": "CP6901",
+        "description": "Hab225_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.54",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885230": {
+        "hostname": "SEP247E12BF503F",
+        "model": "CP6901",
+        "description": "Hab230_0885",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "17774005": {
+        "hostname": "SEP247E12BF54DE",
+        "model": "CP6901",
+        "description": "T_Rojo_UH2_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.12.140",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885226": {
+        "hostname": "SEP247E12BF4EE0",
+        "model": "CP6901",
+        "description": "Hab226_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.146",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885208": {
+        "hostname": "SEP247E12BF54C6",
+        "model": "CP6901",
+        "description": "Hab208-1_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.42",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885202": {
+        "hostname": "SEP247E12BF509B",
+        "model": "CP6901",
+        "description": "Hab202_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.67",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885201": {
+        "hostname": "SEP247E12BECB6F",
+        "model": "CP6901",
+        "description": "Hab201_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.37",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885204": {
+        "hostname": "SEP247E12BF5516",
+        "model": "CP6901",
+        "description": "Hab204_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.134",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885205": {
+        "hostname": "SEP247E12BECC8F",
+        "model": "CP6901",
+        "description": "Hab205_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.68",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885206": {
+        "hostname": "SEP247E12BF5502",
+        "model": "CP6901",
+        "description": "Hab206_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.61",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885223": {
+        "hostname": "SEP247E12BECBAA",
+        "model": "CP6901",
+        "description": "Hab223_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.237",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885556": {
+        "hostname": "SEP247E12BF54BE",
+        "model": "CP6901",
+        "description": "Hab208-2_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.70",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885209": {
+        "hostname": "SEP247E12BF535F",
+        "model": "CP6901",
+        "description": "Hab209_S.Cugat",
+        "estadoActual": {
+            "conectado": false,
+            "ip": null,
+            "timestamp": null
+        }
+    },
+    "10885210": {
+        "hostname": "SEP247E12BF549F",
+        "model": "CP6901",
+        "description": "Hab210_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.86",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885211": {
+        "hostname": "SEP247E12BF4FFE",
+        "model": "CP6901",
+        "description": "Hab211_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.98",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885212": {
+        "hostname": "SEP247E12BF54A5",
+        "model": "CP6901",
+        "description": "Hab212_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.62",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885213": {
+        "hostname": "SEP247E12BF54A3",
+        "model": "CP6901",
+        "description": "Hab213_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.77",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885229": {
+        "hostname": "SEP247E12BF54FE",
+        "model": "CP6901",
+        "description": "Hab229_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.194",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885315": {
+        "hostname": "SEP74860B70B85D",
+        "model": "CP6901",
+        "description": "Hab315_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.106",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885324": {
+        "hostname": "SEP247E12BE0761",
+        "model": "CP6901",
+        "description": "Hab324_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.97",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885314": {
+        "hostname": "SEP74860B70BA90",
+        "model": "CP6901",
+        "description": "Hab314_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.127",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885313": {
+        "hostname": "SEP74860B70BAB6",
+        "model": "CP6901",
+        "description": "Hab313_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.96",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885312": {
+        "hostname": "SEP74860B70B825",
+        "model": "CP6901",
+        "description": "Hab312_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.113",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885302": {
+        "hostname": "SEP247E12BF5454",
+        "model": "CP6901",
+        "description": "Hab302_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.124",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885318": {
+        "hostname": "SEP247E12BE08CE",
+        "model": "CP6901",
+        "description": "Hab318_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.122",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885306": {
+        "hostname": "SEP247E12BF543A",
+        "model": "CP6901",
+        "description": "Hab306_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.115",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885311": {
+        "hostname": "SEP74860B70B8A6",
+        "model": "CP6901",
+        "description": "Hab311_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.100",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885332": {
+        "hostname": "SEP247E12BE094C",
+        "model": "CP6901",
+        "description": "Hab332_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.149",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885331": {
+        "hostname": "SEPB4A8B969FB21",
+        "model": "CP6901",
+        "description": "Hab331_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.207",
+            "timestamp": "2025-10-02T16:22:56.978352"
+        }
+    },
+    "10885330": {
+        "hostname": "SEP247E12BE0752",
+        "model": "CP6901",
+        "description": "Hab330_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.148",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885329": {
+        "hostname": "SEP247E12BE07BA",
+        "model": "CP6901",
+        "description": "Hab329_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.117",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885328": {
+        "hostname": "SEPB4A8B969FCD5",
+        "model": "CP6901",
+        "description": "Hab328_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.118",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885319": {
+        "hostname": "SEP247E12BE0999",
+        "model": "CP6901",
+        "description": "Hab319_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.139",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885326": {
+        "hostname": "SEPB4A8B969FC61",
+        "model": "CP6901",
+        "description": "Hab326_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.196",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    },
+    "10885317": {
+        "hostname": "SEP74860B70BC9A",
+        "model": "CP6901",
+        "description": "Hab317_S.Cugat",
+        "estadoActual": {
+            "conectado": true,
+            "ip": "192.168.81.138",
+            "timestamp": "2025-10-01T13:17:24.729778"
+        }
+    }
+}

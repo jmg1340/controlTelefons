@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+
+.table {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}

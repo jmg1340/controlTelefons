@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor de Logs</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="estilos_logs.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <h1 class="text-center mt-4">Visor de Logs</h1>
+        <div class="row mb-3 align-items-center">
+            <div class="col-md-6">
+                <p class="mb-0"><strong>Última actualización:</strong> <span id="lastModified"></span></p>
+            </div>
+            <div class="col-md-6">
+                <input type="text" id="searchInput" class="form-control" placeholder="Buscar...">
+            </div>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>Estado</th>
+                        <th>Extensión</th>
+                        <th>IP Actual</th>
+                    </tr>
+                </thead>
+                <tbody id="logsTableBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <script src="scripts_logs.js"></script>
+</body>
+</html>
