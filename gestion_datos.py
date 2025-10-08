@@ -166,31 +166,52 @@ def registrar_log_conexion(timestamp, estado, extension, descripcion, ip, filena
     except Exception as e:
         print(f"Ha ocurrido un error al guardar el log en {filename}: {e}")
 
-def sincronizar_eliminacion_estado(csv_filename='TelefonsStCugat.csv', json_filename='estado_telefonos.json'):
+def sincronizar_estado(csv_filename='TelefonsStCugat.csv', json_filename='estado_telefonos.json'):
     """
-    Sincroniza el fichero de estado JSON con el fichero CSV, eliminando las entradas
-    del JSON que ya no existen en el CSV.
+    Sincroniza el fichero de estado JSON con el fichero CSV, añadiendo nuevas entradas
+    y eliminando las que ya no existen en el CSV.
     """
     telefonos_csv = cargar_telefonos_csv(csv_filename)
     if telefonos_csv is None:
         return
 
     estado_telefonos = cargar_estado_json(json_filename)
-    if not estado_telefonos:
-        return
-
+    
     extensiones_csv = set(telefonos_csv.keys())
     extensiones_json = set(estado_telefonos.keys())
 
+    extensiones_a_anadir = extensiones_csv - extensiones_json
     extensiones_a_eliminar = extensiones_json - extensiones_csv
 
-    if not extensiones_a_eliminar:
-        print("No hay extensiones para eliminar. El fichero de estado está sincronizado.")
+    cambios = False
+
+    if not extensiones_a_anadir and not extensiones_a_eliminar:
+        print("No hay extensiones para añadir o eliminar. El fichero de estado está sincronizado.")
         return
 
+    # Añadir nuevas extensiones
+    for extension in extensiones_a_anadir:
+        datos_csv = telefonos_csv[extension]
+        estado_telefonos[extension] = {
+            'hostname': datos_csv.get('device_name'),
+            'model': datos_csv.get('model'),
+            'description': datos_csv.get('description'),
+            'estadoActual': {
+                'conectado': False,
+                'ip': None,
+                'timestamp': None
+            },
+            'historial': []
+        }
+        print(f"Extensión {extension} añadida al fichero de estado.")
+        cambios = True
+
+    # Eliminar extensiones antiguas
     for extension in extensiones_a_eliminar:
         del estado_telefonos[extension]
         print(f"Extensión {extension} eliminada del fichero de estado.")
+        cambios = True
 
-    guardar_estado_json(estado_telefonos, json_filename)
-    print("El fichero de estado ha sido actualizado.")
+    if cambios:
+        guardar_estado_json(estado_telefonos, json_filename)
+        print("El fichero de estado ha sido actualizado.")

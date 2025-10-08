@@ -1,45 +1,12 @@
 # Importa las funciones necesarias de los otros módulos del proyecto.
-from gestion_datos import cargar_telefonos_csv, cargar_estado_json, guardar_estado_json, registrar_log_conexion, sincronizar_eliminacion_estado
+from gestion_datos import cargar_telefonos_csv, cargar_estado_json, guardar_estado_json, registrar_log_conexion, sincronizar_estado
 from escaner_red import escanear_redes
 # Importa datetime para obtener la fecha y hora actual para los registros de historial.
 from datetime import datetime
 # Importa time para poder pausar la ejecución del script.
 import time
 
-def inicializar_estado(telefonos_referencia, estado_actual):
-    """
-    Inicializa el estado para los teléfonos que están en el CSV de referencia 
-    pero que aún no existen en el fichero de estado (estado_telefonos.json).
-    Esto es útil cuando se añaden nuevos teléfonos al CSV.
 
-    Args:
-        telefonos_referencia (dict): Diccionario con los teléfonos cargados del CSV.
-        estado_actual (dict): Diccionario con el estado actual cargado del JSON.
-
-    Returns:
-        tuple: Una tupla conteniendo el diccionario de estado actualizado y un booleano 
-               que indica si se realizó algún cambio.
-    """
-    changed = False
-    # Itera sobre cada teléfono del fichero CSV de referencia.
-    for ext, datos in telefonos_referencia.items():
-        # Comprueba si la extensión del teléfono no existe en la estructura de estado actual.
-        if ext not in estado_actual:
-            # Si no existe, crea una entrada por defecto para ese teléfono.
-            estado_actual[ext] = {
-                'hostname': datos.get('device_name'),
-                'model': datos.get('model'),
-                'description': datos.get('description'),
-                'estadoActual': {
-                    'conectado': False,
-                    'ip': None,
-                    'timestamp': None
-                },
-                'historial': []
-            }
-            # Marca que se ha realizado un cambio.
-            changed = True
-    return estado_actual, changed
 
 def actualizar_estado_telefonos(estado_telefonos, telefonos_activos):
     """
@@ -84,11 +51,11 @@ def actualizar_estado_telefonos(estado_telefonos, telefonos_activos):
                 datos_telefono['estadoActual']['ip'] = telefono_encontrado['ip']
                 datos_telefono['estadoActual']['timestamp'] = timestamp
                 # Añade un nuevo registro al historial del teléfono.
-                datos_telefono['historial'].append({
-                    'timestamp': timestamp,
-                    'conectado': True,
-                    'ip': telefono_encontrado['ip']
-                })
+                ##datos_telefono['historial'].append({
+                ##    'timestamp': timestamp,
+                ##    'conectado': True,
+                ##    'ip': telefono_encontrado['ip']
+                ##})
                 cambios_detectados = True
             elif datos_telefono['estadoActual']['ip'] != telefono_encontrado['ip']:
                 # CAMBIO: El teléfono ya estaba conectado, pero su dirección IP ha cambiado.
@@ -144,18 +111,11 @@ def main():
     if estado_telefonos:
         print(f"Se ha cargado el estado de {len(estado_telefonos)} teléfonos desde el JSON.")
 
-    # Sincroniza el estado con el fichero CSV para eliminar teléfonos que ya no existen.
-    sincronizar_eliminacion_estado()
-    
-    # Comprueba si hay teléfonos nuevos en el CSV que no estén en el estado y los inicializa.
-    estado_telefonos, anadido_nuevo = inicializar_estado(telefonos_referencia, estado_telefonos)
-    if not estado_telefonos and anadido_nuevo:
-         print("No se ha encontrado un fichero de estado existente. Se creará una nueva estructura.")
+    # Sincroniza el estado con el fichero CSV para añadir y eliminar teléfonos según corresponda.
+    sincronizar_estado()
 
-    # Si se añadieron teléfonos nuevos, se informa y se guarda el estado inicial.
-    if anadido_nuevo:
-        print("Se han añadido nuevos teléfonos a la estructura de estado.")
-        guardar_estado_json(estado_telefonos)
+    # El estado de los teléfonos se recarga después de la sincronización para asegurar que los datos están al día.
+    estado_telefonos = cargar_estado_json()
     
     print("\n" + "="*50)
     print("      Monitor de Conectividad Iniciado")
